@@ -1,0 +1,8 @@
+name: cartoonize_images
+dependencies:
+  - numpy
+  - hdf5=1.10.5
+  - tensorflow-gpu==1.15
+  - pip
+  - pip:
+    - opencv-python
